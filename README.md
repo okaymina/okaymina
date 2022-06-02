@@ -8,7 +8,7 @@
         <p>• 📚 I’m currently : <b>learning about web.</b></p>
         <p>• ℹ️ Hobbies: <b> Music 🎧 | Movie 🍿</b></p>
         <p>• 📫 How to reach me: <b>okaymina418@gmail.com</b></p>
-        <p>• 🌐 You will be able to see more about me on my <a href="https://okaymina.github.io/">website</a>
+        <p>• 🌐 You will be able to see more about me on my <a href="https://velog.io/@okaymina/">website</a>
 </div><br>
 
 
@@ -28,7 +28,7 @@
 
 
 
-Last Edited on: May. 31, 2022
+Last Edited on: June. 02, 2022
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
