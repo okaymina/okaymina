@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=190)
-<h1 align="left">Hi👋, I'm Min-A Ok</h1>
+<h1 align="left">Hi👋, I'm Min Ok</h1>
 
 <h3 align="left">I have a passion for web front-end programming and technology! 🚀</h3>
 
