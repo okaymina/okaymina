@@ -6,7 +6,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I’m currently : <b>learning about web.</b></p>
-        <p>• ℹ️ Hobbies: <b> Music 🎧 | Movie 🍿</b></p>
+        <p>• ℹ️ Hobbies: <b> Music 🎧 | Reading 📖 </b></p>
         <p>• 📫 How to reach me: <b>okaymina418@gmail.com</b></p>
         <p>• 🌐 You will be able to see more about me on my <a href="https://velog.io/@okaymina/">website</a>
 </div><br>
