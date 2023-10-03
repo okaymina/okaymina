@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=190)
 <h1 align="left">Hi👋, I'm Mina Ok</h1>
 
-<h3 align="left">I have a passion for web programming and Computer science! 🚀</h3>
+<h3 align="left">I have a passion for Web Programming and Computer science! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
