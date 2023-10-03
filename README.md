@@ -16,15 +16,20 @@
 <h3>🧰 Languages and tools I'm learning until now:</h3><br>
 <div align = "center">  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%6DB33F.svg?style=for-the-badge&logo=java&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%F80000.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+[![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge)]()
+[![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?logo=Spring&logoColor=white&style=for-the-badge)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white&style=for-the-badge)]()
+[![Mysql](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)]()  
+[![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
 
-![Eclips](https://img.shields.io/badge/Eclips-%2C2255.svg?style=for-the-badge&logo=java&logoColor=white)
+[![Java Script](https://img.shields.io/badge/javascript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/react-61DAFB?logo=React&logoColor=white&style=for-the-badge)]()
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
+[![Eclipse](https://img.shields.io/badge/eclipse-2C2255?logo=eclipse&logoColor=white&style=for-the-badge)]() 
+[![VSC](https://img.shields.io/badge/visual%20studio%20code-007ACC?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)]()
     
 
 </div>
